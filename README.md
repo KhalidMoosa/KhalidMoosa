@@ -25,7 +25,7 @@
   <a href="https://x.com/MoosaResearch">
     <img src="https://img.shields.io/badge/Wire-Twitter-black?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="www.linkedin.com/in/khalid-moosa">
+  <a href="https://linkedin.com/in/khalid-moosa">
     <img src="https://img.shields.io/badge/ID-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
